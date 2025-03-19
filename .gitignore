@@ -11,6 +11,9 @@ utils/.ipynb_checkpoints/
 # Project files
 weights/
 models/
+README.jlc
+trash/
+.trash/
 
 # Virtual environments
 .venv
