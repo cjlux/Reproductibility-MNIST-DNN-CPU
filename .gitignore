@@ -13,7 +13,6 @@ weights/
 models/
 README.jlc
 trash/
-.trash/
 
 # Virtual environments
 .venv
